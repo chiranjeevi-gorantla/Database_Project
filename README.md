@@ -2,10 +2,10 @@
 
 Team Members:
 
-1. Venkata Saketh Vellanki                   801254039
-2. Chiranjeevi Venkata Siva Kumar Gorantla   801259516
-3. Dileep Kumar Komatineni                   801261197
-4. Dedeepya Ramineni                         801254831
+1. Venkata Saketh Vellanki                   - 801254039
+2. Chiranjeevi Venkata Siva Kumar Gorantla   - 801259516
+3. Dileep Kumar Komatineni                   - 801261197
+4. Dedeepya Ramineni                         - 801254831
 
 Project Introduction:
 
