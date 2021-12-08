@@ -39,3 +39,6 @@ Business Rules:
 12. There is a limit of one social media handle per restaurant.
  
 13. All of the locations must be on campus.
+
+#Data Dictionary 
+
