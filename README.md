@@ -1,6 +1,6 @@
 # Database_Project(Campus Eats)
 
-Team Members:
+## Group Members:
 
 1. Venkata Saketh Vellanki                   - 801254039
 2. Chiranjeevi Venkata Siva Kumar Gorantla   - 801259516
@@ -12,7 +12,7 @@ Project Introduction:
 Food delivery services have become an indispensable part of our life. It’s critical for institutions to maintain track of orders placed. CampusEats database is all about the food delivery system. Each student is considered as a person similarly each staff member is considered as a person. A user first has to create an account for placing an order and ordering the food. All the accepting restaurants are registered in the database with their respective locations and users search for the restaurants and order the food. A delivery person will be associated with the order. Our database holds the record of each staff member. Students can work as drivers to deliver the food if they have a driving licence. 
 
 
-Business Rules:
+## Business Rules:
 
 1. Only students are acceptable to be drivers.
  
@@ -40,5 +40,6 @@ Business Rules:
  
 13. All of the locations must be on campus.
 
-## Data Dictionary 
+## Data Dictionary:
 
+https://github.com/chiranjeevi-gorantla/Database_Project/tree/main/Data%20Dictionary
