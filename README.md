@@ -42,6 +42,8 @@ Food delivery services have become an indispensable part of our life. It’s cri
 
 ## EERD Diagram:
 
+https://github.com/chiranjeevi-gorantla/Database_Project/tree/main/EERD%20Diagram
+
 
 
 ## Data Dictionary:
