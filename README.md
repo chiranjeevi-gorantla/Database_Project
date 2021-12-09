@@ -49,3 +49,6 @@ https://github.com/chiranjeevi-gorantla/Database_Project/tree/main/EERD%20Diagra
 ## Data Dictionary:
 
 https://github.com/chiranjeevi-gorantla/Database_Project/tree/main/Data%20Dictionary
+
+## SQL Dump:
+
