@@ -58,6 +58,11 @@ https://github.com/chiranjeevi-gorantla/Database_Project/tree/main/SQL%20Dump
 
 https://github.com/chiranjeevi-gorantla/Database_Project/tree/main/Deliverable-3
 
+## Stored Procedures, Indexes, Views, Functions:
+
+https://github.com/chiranjeevi-gorantla/Database_Project/tree/main/Stored%20Procedure%2Cview%2CIndexes%2CFunctions
+
+
 
 
 
