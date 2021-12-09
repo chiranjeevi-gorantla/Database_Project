@@ -40,6 +40,10 @@ Food delivery services have become an indispensable part of our life. It’s cri
  
 13. All of the locations must be on campus.
 
+## EERD Diagram:
+
+
+
 ## Data Dictionary:
 
 https://github.com/chiranjeevi-gorantla/Database_Project/tree/main/Data%20Dictionary
